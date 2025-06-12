@@ -1,0 +1,13 @@
+Python library lists：
+import ***
+1. os
+2. matplotlib
+3. numpy
+4. tqdm
+5. scipy
+6. pandas
+7. itertools
+8. re
+9. scikit-learn
+======================
+Note: all regressor models should be imported correctly.
